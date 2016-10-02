@@ -44,7 +44,6 @@ We will use two datasets:
 
 [Starter Code](./code/starter-code/starter-code-2_4.ipynb)
 
->[Solution Code](./code/solution-code/solution-code-2_4.ipynb)
 
 ## Additional resources
 
